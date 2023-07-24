@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacroRecorder", "MacroRecorder\MacroRecorder.csproj", "{5519F8D2-F707-460D-B414-FAB99BC7F3D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5519F8D2-F707-460D-B414-FAB99BC7F3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5519F8D2-F707-460D-B414-FAB99BC7F3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5519F8D2-F707-460D-B414-FAB99BC7F3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5519F8D2-F707-460D-B414-FAB99BC7F3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843DEA0E-EA7D-4318-BF71-F108A7DA9A9D}
+	EndGlobalSection
+EndGlobal
